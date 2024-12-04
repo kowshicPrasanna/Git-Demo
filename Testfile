@@ -2,3 +2,5 @@ function displayMessage(){
 console.log("Hi git hub");
 }
 displayMessage;
+
+console.log("Pushed code")
